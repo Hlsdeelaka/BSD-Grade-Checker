@@ -1,1 +1,1 @@
-Interlake Programming Club's gradeviewer app for BSD405.
+Interlake Programming Club's Gradeviewer App for BSD405.
